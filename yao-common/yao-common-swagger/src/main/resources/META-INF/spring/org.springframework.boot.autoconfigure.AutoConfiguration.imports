@@ -1,0 +1,3 @@
+com.yao.common.swagger.config.SwaggerAutoConfiguration
+com.yao.common.swagger.config.SwaggerWebConfiguration
+com.yao.common.swagger.config.SwaggerBeanPostProcessor

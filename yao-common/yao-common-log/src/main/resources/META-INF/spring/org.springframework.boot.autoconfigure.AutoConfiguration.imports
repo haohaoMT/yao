@@ -1,0 +1,2 @@
+com.yao.common.log.service.AsyncLogService
+com.yao.common.log.aspect.LogAspect

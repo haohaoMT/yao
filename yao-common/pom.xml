@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.yao</groupId>
+        <artifactId>yao</artifactId>
+        <version>3.6.1</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>yao-common-log</module>
+        <module>yao-common-core</module>
+        <module>yao-common-redis</module>
+        <module>yao-common-seata</module>
+        <module>yao-common-swagger</module>
+        <module>yao-common-security</module>
+        <module>yao-common-datascope</module>
+        <module>yao-common-datasource</module>
+    </modules>
+
+    <artifactId>yao-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        yao-common通用模块
+    </description>
+
+</project>

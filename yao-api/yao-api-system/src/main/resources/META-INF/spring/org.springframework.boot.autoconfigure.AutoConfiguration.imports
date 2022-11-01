@@ -1,0 +1,3 @@
+com.yao.system.api.factory.RemoteUserFallbackFactory
+com.yao.system.api.factory.RemoteLogFallbackFactory
+com.yao.system.api.factory.RemoteFileFallbackFactory
